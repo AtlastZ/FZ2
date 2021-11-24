@@ -18,7 +18,7 @@
 <?php
     $id = $_GET['FRIENDS'];
     // Connect to server and select database.
-    include("config.php");//login
+    include("../config/config.php");//login
     $sql="SELECT * FROM reservation WHERE Friends=\"$id\" ORDER BY Date ASC";
     $objQuery = mysqli_query($objCon,$sql);
 ?>
