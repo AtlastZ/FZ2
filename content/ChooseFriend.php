@@ -289,6 +289,7 @@
                 <!-- <div class="btSelect container"></div> -->
             </div>
         </div>
+        
         <div class="confirm ">
             <div id="bt" class="container btimg" style="display: block;">
                 <a href="queue.php?FRIENDS=<?php echo "0" ?>" class="a"><img class="imgbtn "
@@ -339,6 +340,7 @@
                         src="../assets/images/MakeFButton1.png" alt=""></a>
             </div>
         </div>
+        
     </div>
 
 
