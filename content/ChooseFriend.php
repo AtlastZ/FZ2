@@ -350,11 +350,11 @@
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt1" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "Okusora Shinshiro" ?>"target="blank"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "Okusora&nbspShinshiro" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt2" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "Teru Tendo" ?>"target="blank"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "Teru&nbspTendo" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt3" class="container btimg" style="display: none;">
