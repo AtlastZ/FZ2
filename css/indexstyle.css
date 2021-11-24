@@ -3,9 +3,6 @@
     margin: 0;
     padding:0 ;
 }
-body {
-    overflow: hidden;
-}
 /* index สุดเท่ */
 .index{
     height: 1000px;
