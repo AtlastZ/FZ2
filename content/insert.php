@@ -8,10 +8,13 @@
 
     //check if query successful
     if($objQuery){
-        echo "Successful";
-        echo "<BR>";
+        header( "location: complete.php" );
+        exit(0);
+        // echo "Successful";
+        // echo "<BR>";
     // link to view guestbook page
     }
     else {
     echo "ERROR";
     }
+    ?>

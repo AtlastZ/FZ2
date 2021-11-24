@@ -59,7 +59,7 @@
                             <div class="untitled__slideContent">
                                 <span>เพื่อนกัน</span>
                                 <span>แค่พันเดียว</span>
-                                <a class="button" href="ChooseFriend.php" target="/black">Book now</a>
+                                <a class="button" href="ChooseFriend.php">Book now</a>
                             </div>
                         </div>
                         <div class="untitled__slide">
@@ -67,7 +67,7 @@
                             <div class="untitled__slideContent">
                                 <span>Toru</span>
                                 <span>Asakura</span>
-                                <a class="button" href="ChooseFriend.php" target="/black">Book now</a>
+                                <a class="button" href="ChooseFriend.php">Book now</a>
                             </div>
                         </div>
                         <div class="untitled__slide">
@@ -76,7 +76,7 @@
 
                                 <span>Asahi</span>
                                 <span>Serizawa</span>
-                                <a class="button" href="ChooseFriend.php" target="/black">Book now</a>
+                                <a class="button" href="ChooseFriend.php">Book now</a>
                             </div>
                         </div>
                         <div class="untitled__slide">
@@ -84,7 +84,7 @@
                             <div class="untitled__slideContent">
                                 <span>Eichi</span>
                                 <span>Tenshouin</span>
-                                <a class="button" href="ChooseFriend.php" target="/black">Book now</a>
+                                <a class="button" href="ChooseFriend.php">Book now</a>
                             </div>
                         </div>
                     </div>
