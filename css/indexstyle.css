@@ -1,0 +1,18 @@
+*{
+    background: #ffe4e6;
+    margin: 0;
+  padding:0 ;
+}
+/* index สุดเท่ */
+.index{
+    height: 1000px;
+}
+.imghover{
+    transition: transform .2s;
+}
+.imghover:hover{
+    transform: scale(1.2);
+}
+.botton{
+    width: 20%;
+}

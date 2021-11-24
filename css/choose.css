@@ -1,0 +1,176 @@
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.navbar-custom {
+    background-color: #73558b;
+}
+
+#navbarText :hover {
+    transform: scale(1.1);
+    transition: .2s;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+}
+body{
+    background-image: url(x.svg);
+    background-size: cover;
+}
+.bg {
+    height: auto;
+    width: 100%;
+    /* background-color: #612323!important; */
+}
+
+.leftbarname {
+    height: 5vw;
+    width: 50%;
+    /* background-color: #2e0909!important; */
+}
+
+.inleftbarname {
+    height: 5vw;
+    width: 70%;
+}
+
+.rightbarname {
+    height: 5vw;
+    width: 50%;
+    /* background-color: #fa0f2e!important; */
+}
+
+.divmain {
+    height: auto;
+    width: 100%;
+    /* background-color: #d313a9!important; */
+}
+
+.divright {
+    height: 100%;
+    width: 50%;
+    /* background-color: #19d889!important; */
+}
+
+.divleft {
+    height: 100%;
+    width: 50%;
+    /* background-color: #b495ae!important; */
+}
+
+.detail {
+    height: 6vw;
+    width: 70%;
+    /* background-color: #e7370a!important; */
+}
+
+.friend {
+    height: auto;
+    width: 75%;
+    /* background-color: #caf336!important; */
+}
+
+.imgC {
+    height: auto;
+    width: 60%;
+    /* background-color: #00ffdd!important; */
+}
+
+.btSelect {
+    height: 70px;
+    width: 100%;
+    /* background-color: #414141!important; */
+}
+
+.blockimg {
+    height: 9vw;
+    /* width: 110px; */
+    /* background-color: #414141!important; */
+}
+
+.imgcha {
+    height: 100%;
+    width: 100%;
+    /* background-color: #414141!important; */
+}
+
+.imgFull {
+    height: 36vw;
+    width: 25vw;
+}
+
+.positiontext {
+    margin-left: 8vw;
+}
+
+.fontheader {
+    font-size: 2vw;
+}
+
+.fontdetail {
+    font-size: 1.2vw;
+}
+
+.mgt {
+    margin-top: 2vw;
+}
+
+.mgl {
+    margin-left: 4vw;
+}
+
+.confirm {
+    width: 16vw;
+    height: 9vw;
+    /* background-color: blue; */
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+.block {
+    height: 2vw;
+    width: 20%;
+    /* background-color: #00ffdd!important; */
+}
+  .imgbtn{
+      width:15vw ;
+      height: 8vw;
+  }
+
+.imgcha:hover{
+    transform: rotateZ(20deg) scale(1.1);
+    transition: .2s;
+}
+/* .btimg:hover{
+    transform: rotateZ(5deg) scale(1.1);
+    transition: .2s;
+} */
+.btimg:hover {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 0.5s;
+  
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+
