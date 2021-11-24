@@ -299,11 +299,11 @@
                             src="../assets/images/Viewlist.png" alt=""></a>
                 </div>
                 <div id="v1" class="container btimg" style="display: none;">
-                    <a href="view.php?FRIENDS=<?php echo "Jar" ?>"><img class="imgbtn "
+                    <a href="view.php?FRIENDS=<?php echo "Okusora Shinshiro" ?>"><img class="imgbtn "
                             src="../assets/images/Viewlist.png" alt=""></a>
                 </div>
                 <div id="v2" class="container btimg" style="display: none;">
-                    <a href="view.php?FRIENDS=<?php echo "2" ?>"><img class="imgbtn "
+                    <a href="view.php?FRIENDS=<?php echo "Teru Tendo" ?>"><img class="imgbtn "
                             src="../assets/images/Viewlist.png" alt=""></a>
                 </div>
                 <div id="v3" class="container btimg" style="display: none;">
@@ -346,51 +346,51 @@
 
             <div class="confirm ">
                 <div id="bt" class="container btimg" style="display: block;">
-                    <a href="queue.php?FRIENDS=<?php echo "0" ?>" class="a"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "0" ?>" class="a" target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt1" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "1" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "Okusora Shinshiro" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt2" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "2" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "Teru Tendo" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt3" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "3" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "3" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt4" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "4" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "4" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt5" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "5" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "5" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt6" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "6" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "6" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt7" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "7" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "7" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt8" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "8" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "8" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt9" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "9" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "9" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt10" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "10" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "10" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
                 <div id="bt11" class="container btimg" style="display: none;">
-                    <a href="queue.php?FRIENDS=<?php echo "11" ?>"><img class="imgbtn "
+                    <a href="queue.php?FRIENDS=<?php echo "11" ?>"target="blank"><img class="imgbtn "
                             src="../assets/images/MakeFButton1.png" alt=""></a>
                 </div>
             </div>

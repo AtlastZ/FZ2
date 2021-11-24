@@ -8,6 +8,10 @@
     <link rel="icon" href="../assets/images/Icon.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous">
+    </script>
+    <script src="../js/choose.js"></script>
     <link rel="stylesheet" href="../css/about.css">
     <link rel="stylesheet" href="../css/nav.css">
 </head>
@@ -34,10 +38,9 @@
                             <a class="nav-link active" href="about.php" style="vertical-align:middle;">About Us</a>
                         </li>
                         <li class="nav-item align-self-center">
-                            <a class="nav-link active"
-                                href="https://www.facebook.com/sathidaCerSerZer" target="blank"><img
+                            <a class="nav-link active" href="https://www.facebook.com/sathidaCerSerZer"><img
                                     src="https://cdn-icons-png.flaticon.com/512/1400/1400843.png" width="50px"
-                                    style="vertical-align:middle;" ></a>
+                                    style="vertical-align:middle;"></a>
                         </li>
                     </ul>
 
