@@ -19,72 +19,75 @@
 </head>
 
 <body style="background-color: #ffe4e6;">
-    <nav class="navbar navbar-expand-lg navbar-custom navbar-dark sticky-top"
-        style="background-color: #73558b; width:100%;">
-        <div class="container-fluid ">
-            <a class="navbar-brand" href="../index.php" style="width:15%" id="navIcon"><img
-                    src="https://media.discordapp.net/attachments/608999097982255127/911546510418796564/LogoFZ4-edited.png?width=1440&height=410"
-                    class="img-fluid" alt="img not found"></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
-                aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarText">
-                <ul class="navbar-nav  d-flex justify-content-end " style="width:100%;">
-                    <li class="nav-item align-self-center">
-                        <a class="nav-link active" href="ChooseFriend.php" style="vertical-align:middle;">Choose
-                            Friend</a>
-                    </li>
-                    <li class="nav-item align-self-center">
-                        <a class="nav-link active" href="complete.php" style="vertical-align:middle;">About Us</a>
-                    </li>
-                    <li class="nav-item align-self-center">
-                        <a class="nav-link active" href="https://www.facebook.com/profile.php?id=100016529299073"><img
-                                src="https://cdn-icons-png.flaticon.com/512/1400/1400843.png" width="50px"
-                                style="vertical-align:middle;"></a>
-                    </li>
-                </ul>
+    <div class="content">
+        <nav class="navbar navbar-expand-lg navbar-custom navbar-dark sticky-top"
+            style="background-color: #73558b; width:100%;">
+            <div class="container-fluid ">
+                <a class="navbar-brand" href="../index.php" style="width:15%" id="navIcon"><img
+                        src="https://media.discordapp.net/attachments/608999097982255127/911546510418796564/LogoFZ4-edited.png?width=1440&height=410"
+                        class="img-fluid" alt="img not found"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+                    aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarText">
+                    <ul class="navbar-nav  d-flex justify-content-end " style="width:100%;">
+                        <li class="nav-item align-self-center">
+                            <a class="nav-link active" href="ChooseFriend.php" style="vertical-align:middle;">Choose
+                                Friend</a>
+                        </li>
+                        <li class="nav-item align-self-center">
+                            <a class="nav-link active" href="about.php" style="vertical-align:middle;">About Us</a>
+                        </li>
+                        <li class="nav-item align-self-center">
+                            <a class="nav-link active"
+                                href="https://www.facebook.com/profile.php?id=100016529299073"><img
+                                    src="https://cdn-icons-png.flaticon.com/512/1400/1400843.png" width="50px"
+                                    style="vertical-align:middle;"></a>
+                        </li>
+                    </ul>
 
+                </div>
+            </div>
+        </nav>
+        <div align="center" class="meat">
+            <div class="wavy" onmousedown='return false;' onselectstart='return false;'>
+
+                <span style="--i:1; font-size:3vw; cursor: default;">Thank</span>
+                <span style="--i:2; font-size:3vw; cursor: default;">you</span>
+                <span style="--i:3; font-size:3vw; cursor: default;">for</span>
+                <span style="--i:4; font-size:3vw; cursor: default;">your</span>
+                <span style="--i:5; font-size:3vw; cursor: default;"> booking</span>
+                <span style="--i:6; font-size:2vw; cursor: default;">&#10084;</span>
+                <span style="--i:7; font-size:2vw; cursor: default;">&#10084;</span>
+                <span style="--i:8; font-size:2vw; cursor: default;">&#10084;</span>
+            </div>
+            <hr style="margin:auto;width:40%">
+            <div class="vegi" onmousedown='return false;' onselectstart='return false;'>
+                <h align="center" style="cursor: default;">love you 3000</h>
+            </div>
+            </hr>
+        </div>
+        <div class="container steak d-flex justify-content-center">
+            <a href="a.html"><button type="button" class="btn btn-outline-primary"><span
+                        style="font-size:1.5vw;">Booking
+                        more!</span></button></a>
+            <a href="Main.php"><button type="button" class="btn btn-outline-success"><span style="font-size:1.5vw;">Main
+                        menu</span></button></a>
+        </div>
+
+        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+        <div align="center" class="main">
+            <div class="border">
+                <div class="inner-cutout" onmousedown='return false;' onselectstart='return false;'>
+                    <h1 class="knockout" style="cursor: default;">Promotion <br> 10 free 1</h1>
+                </div>
             </div>
         </div>
-    </nav>
-    <div align="center" class="meat">
-        <div class="wavy" onmousedown='return false;' onselectstart='return false;'>
+        <div style="width:2vw: height:2vw:">
 
-            <span style="--i:1; font-size:3vw; cursor: default;">Thank</span>
-            <span style="--i:2; font-size:3vw; cursor: default;">you</span>
-            <span style="--i:3; font-size:3vw; cursor: default;">for</span>
-            <span style="--i:4; font-size:3vw; cursor: default;">your</span>
-            <span style="--i:5; font-size:3vw; cursor: default;"> booking</span>
-            <span style="--i:6; font-size:2vw; cursor: default;">&#10084;</span>
-            <span style="--i:7; font-size:2vw; cursor: default;">&#10084;</span>
-            <span style="--i:8; font-size:2vw; cursor: default;">&#10084;</span>
+            <p> </p>
         </div>
-        <hr style="margin:auto;width:40%">
-        <div class="vegi" onmousedown='return false;' onselectstart='return false;'>
-            <h align="center" style="cursor: default;">love you 3000</h>
-        </div>
-        </hr>
-    </div>
-    <div class="container steak d-flex justify-content-center">
-        <a href="a.html"><button type="button" class="btn btn-outline-primary"><span style="font-size:1.5vw;">Booking
-                    more!</span></button></a>
-        <a href="Main.php"><button type="button" class="btn btn-outline-success"><span style="font-size:1.5vw;">Main
-                    menu</span></button></a>
-    </div>
-
-    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-    <div align="center" class="main">
-        <div class="border">
-            <div class="inner-cutout" onmousedown='return false;' onselectstart='return false;'>
-                <h1 class="knockout" style="cursor: default;">Promotion <br> 10 free 1</h1>
-            </div>
-        </div>
-    </div>
-    <div style="width:2vw: height:2vw:">
-
-        <p> </p>
-    </div>
 
 </body>
 

@@ -36,7 +36,7 @@
                                 Friend</a>
                         </li>
                         <li class="nav-item align-self-center">
-                            <a class="nav-link active" href="complete.php" style="vertical-align:middle;">About Us</a>
+                            <a class="nav-link active" href="about.php" style="vertical-align:middle;">About Us</a>
                         </li>
                         <li class="nav-item align-self-center">
                             <a class="nav-link active"

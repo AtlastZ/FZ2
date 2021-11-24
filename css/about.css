@@ -1,0 +1,44 @@
+body {
+    background-color: burlywood;
+}
+.main {
+    width: 100%;
+    height: auto;
+    /* background-color: brown;  */
+}
+
+.about {
+    width: 100%;
+    height: 7vw;
+    /* background-color: brown;  */
+}
+
+.bmain {
+    width: 100%;
+    height: 35vw;
+}
+
+.lbmain {
+    width: 80%;
+    height: 100%;
+    /* background-color: blue;  */
+}
+
+
+.h2 {
+    margin-right: 5vw;
+}
+.lh-base{
+    margin-top: 2vw;
+    
+}
+.space{
+    width: 10%;
+    height: 100%;
+}
+.char{
+    font-size: 40px;
+    height: 40px;
+    animation: an 1s ease-out 1 both;
+    display: inline-block;
+}
