@@ -1,7 +1,10 @@
 *{
     background: #ffe4e6;
     margin: 0;
-  padding:0 ;
+    padding:0 ;
+}
+body {
+    overflow: hidden;
 }
 /* index สุดเท่ */
 .index{
