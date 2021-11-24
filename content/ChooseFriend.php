@@ -296,7 +296,7 @@
                         src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v1" class="container btimg" style="display: none;">
-                <a href="view.php?FRIENDS=<?php echo "1" ?>"><img class="imgbtn "
+                <a href="view.php?FRIENDS=<?php echo "Jar" ?>"><img class="imgbtn "
                         src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v2" class="container btimg" style="display: none;">
