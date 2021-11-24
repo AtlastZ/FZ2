@@ -292,7 +292,7 @@
         
         <div class="view ">
             <div id="v" class="container btimg" style="display: block;">
-                <a href="view.php?FRIENDS=<?php echo "0" ?>" class="a"><img class="imgbtn "
+                <a href="view.php?FRIENDS=<?php echo "Jar" ?>" class="a"><img class="imgbtn "
                         src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v1" class="container btimg" style="display: none;">
