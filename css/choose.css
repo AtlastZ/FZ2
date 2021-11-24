@@ -1,7 +1,8 @@
 
 body{
-    background-image: url(x.svg);
-    background-size: cover;
+    /* background-image: url(x.svg);
+    background-size: cover; */
+    background: #ffe4e6;
 }
 .bg {
     height: auto;
@@ -103,6 +104,15 @@ body{
 
 .mgl {
     margin-left: 4vw;
+}
+.view {
+    width: 16vw;
+    height: 9vw;
+    /* background-color: blue; */
+    position: fixed;
+    right: 0;
+    bottom: 5vw;
+    z-index: 1;
 }
 
 .confirm {

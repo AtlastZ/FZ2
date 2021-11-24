@@ -193,51 +193,51 @@
                 <section>
                     <div class="friend container ">
                         <div class="d-flex flex-wrap align-content-start mgl">
-                            <div class="blockimg m-2" onclick="replace('c1','s1','n1','d1','bt1')"
+                            <div class="blockimg m-2" onclick="replace('c1','s1','n1','d1','bt1','v1')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C1">
                                 <img src="../assets/images/MiniChara02.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c2','s2','n2','d2','bt2')"
+                            <div class="blockimg m-2" onclick="replace('c2','s2','n2','d2','bt2','v2')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C2">
                                 <img src="../assets/images/MiniChara01.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c3','s3','n3','d3','bt3')"
+                            <div class="blockimg m-2" onclick="replace('c3','s3','n3','d3','bt3','v3')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C3">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c4','s4','n4','d4','bt4')"
+                            <div class="blockimg m-2" onclick="replace('c4','s4','n4','d4','bt4','v4')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C4">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c5','s5','n5','d5','bt5')"
+                            <div class="blockimg m-2" onclick="replace('c5','s5','n5','d5','bt5','v5')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C5">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c6','s6','n6','d6','bt6')"
+                            <div class="blockimg m-2" onclick="replace('c6','s6','n6','d6','bt6','v6')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C6">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c7','s7','n7','d7','bt7')"
+                            <div class="blockimg m-2" onclick="replace('c7','s7','n7','d7','bt7','v7')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C7">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c8','s8','n8','d8','bt8')"
+                            <div class="blockimg m-2" onclick="replace('c8','s8','n8','d8','bt8','v8')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C8">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c9','s9','n9','d9','bt9')"
+                            <div class="blockimg m-2" onclick="replace('c9','s9','n9','d9','bt9','v9')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C9">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c10','s10','n10','d10','bt10')"
+                            <div class="blockimg m-2" onclick="replace('c10','s10','n10','d10','bt10','v10')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C10">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c11','s11','n11','d11','bt11')"
+                            <div class="blockimg m-2" onclick="replace('c11','s11','n11','d11','bt11','v11')"
                                 data-bs-toggle="tooltip" data-bs-placement="top" title="C11">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
-                            <div class="blockimg m-2" onclick="replace('c','s','n','d','bt')" data-bs-toggle="tooltip"
+                            <div class="blockimg m-2" onclick="replace('c','s','n','d','bt','v')" data-bs-toggle="tooltip"
                                 data-bs-placement="top" title="Cd">
                                 <img src="../assets/images/MiniCharaGeneral.png" alt="" class="imgcha">
                             </div>
@@ -290,6 +290,57 @@
             </div>
         </div>
         
+        <div class="view ">
+            <div id="v" class="container btimg" style="display: block;">
+                <a href="queue.php?FRIENDS=<?php echo "0" ?>" class="a"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v1" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "1" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v2" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "2" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v3" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "3" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v4" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "4" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v5" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "5" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v6" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "6" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v7" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "7" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v8" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "8" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v9" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "9" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v10" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "10" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+            <div id="v11" class="container btimg" style="display: none;">
+                <a href="queue.php?FRIENDS=<?php echo "11" ?>"><img class="imgbtn "
+                        src="../assets/images/viewlist.png" alt=""></a>
+            </div>
+        </div>
+
         <div class="confirm ">
             <div id="bt" class="container btimg" style="display: block;">
                 <a href="queue.php?FRIENDS=<?php echo "0" ?>" class="a"><img class="imgbtn "

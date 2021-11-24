@@ -1,4 +1,4 @@
-function replace(c,n,s,d,bt) {
+function replace(c,n,s,d,bt,v) {
     document.getElementById('c').style.display = "none";
     document.getElementById('c1').style.display = "none";
     document.getElementById('c2').style.display = "none";
@@ -59,6 +59,19 @@ function replace(c,n,s,d,bt) {
     document.getElementById('bt9').style.display = "none";
     document.getElementById('bt10').style.display = "none";
     document.getElementById('bt11').style.display = "none";
+    document.getElementById('v').style.display = "none";
+    document.getElementById('v1').style.display = "none";
+    document.getElementById('v2').style.display = "none";
+    document.getElementById('v3').style.display = "none";
+    document.getElementById('v4').style.display = "none";
+    document.getElementById('v5').style.display = "none";
+    document.getElementById('v6').style.display = "none";
+    document.getElementById('v7').style.display = "none";
+    document.getElementById('v8').style.display = "none";
+    document.getElementById('v9').style.display = "none";
+    document.getElementById('v10').style.display = "none";
+    document.getElementById('v11').style.display = "none";
+    document.getElementById(v).style.display = "block";
     document.getElementById(bt).style.display = "block";
     document.getElementById(d).style.display = "block";
     document.getElementById(c).style.display = "block";

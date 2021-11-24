@@ -18,8 +18,7 @@
         integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 </head>
 
-<body>
-
+<body style="background-color: #ffe4e6;">
     <nav class="navbar navbar-expand-lg navbar-custom navbar-dark sticky-top"
         style="background-color: #73558b; width:100%;">
         <div class="container-fluid ">
@@ -62,8 +61,8 @@
             <span style="--i:8; font-size:2vw; cursor: default;">&#10084;</span>
         </div>
         <hr style="margin:auto;width:40%">
-        <div class="vegi">
-            <h align="center">love you 3000</h>
+        <div class="vegi" onmousedown='return false;' onselectstart='return false;'>
+            <h align="center" style="cursor: default;">love you 3000</h>
         </div>
         </hr>
     </div>
@@ -77,8 +76,8 @@
     <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
     <div align="center" class="main">
         <div class="border">
-            <div class="inner-cutout">
-                <h1 class="knockout">Promotion <br> 10 free 1</h1>
+            <div class="inner-cutout" onmousedown='return false;' onselectstart='return false;'>
+                <h1 class="knockout" style="cursor: default;">Promotion <br> 10 free 1</h1>
             </div>
         </div>
     </div>
