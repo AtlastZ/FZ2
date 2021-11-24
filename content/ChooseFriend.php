@@ -293,51 +293,51 @@
         <div class="view ">
             <div id="v" class="container btimg" style="display: block;">
                 <a href="queue.php?FRIENDS=<?php echo "0" ?>" class="a"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v1" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "1" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v2" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "2" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v3" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "3" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v4" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "4" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v5" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "5" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v6" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "6" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v7" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "7" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v8" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "8" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v9" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "9" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v10" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "10" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
             <div id="v11" class="container btimg" style="display: none;">
                 <a href="queue.php?FRIENDS=<?php echo "11" ?>"><img class="imgbtn "
-                        src="../assets/images/viewlist.png" alt=""></a>
+                        src="../assets/images/Viewlist.png" alt=""></a>
             </div>
         </div>
 
