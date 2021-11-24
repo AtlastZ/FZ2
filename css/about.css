@@ -1,6 +1,12 @@
 body {
-    background-color: burlywood;
+    background: #ffe4e6;
+    font-family: MyFontMML;
+    font-size: 35px;
 }
+@font-face {
+    font-family: MyFontMML;
+    src: url(../assets/font/FC\ Marshmallow\ Brush\ Regular.otf);
+ }
 .main {
     width: 100%;
     height: auto;
