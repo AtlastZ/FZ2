@@ -95,14 +95,12 @@
         </div>
     </div>
     </div>
-    <!-- <div class="m-4 position-absolute bottom-0 start-0"><a class="btn btn-primary" href="ChooseFriend.php" role="button"><img src="../assets/images/Back.png" alt="Back"></a></div>
- -->
-    <!-- <div class="back" style="background: #000;">
+    <div class="Back">
         <div id="bt" class="container btimg" style="display: block;">
             <a href="ChooseFriend.php"><img class="imgbtn "
                     src="../assets/images/Back.png" alt=""></a>
         </div>
-    </div> -->
+    </div>
 </body>
 
 </html>

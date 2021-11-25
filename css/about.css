@@ -1,7 +1,12 @@
 body {
-    font-size: 1.7vw;
+    font-size: 2vw;
     font-family: MyFontMML;
-    color: black
+    color: black;
+    background-repeat: no-repeat;   background-attachment: fixed;   background-position: center;
+    /* background-image: url(../assets/images/bg55.jpg); */
+    background-image: url(https://cdn.kibrispdr.org/data/background-power-point-bunga-sakura-0.jpg);
+    background-size: cover;
+    font-weight: bold;
 }
 @font-face {
     font-family: MyFontMML;
@@ -10,20 +15,19 @@ body {
 .main {
     width: 100%;
     height: auto;
-    
+    text-shadow: 0px 0px 10px #ffffff;
+    letter-spacing:1.5px;
 }
 
 .about {
     width: 100%;
     height: 20vw;
     /* background-color: blueviolet; */
-    
-    
+    min-height: 200px;
 }
 .data{
     width: 70%;
     height: 65vw;
-    
 }
 
 .space1{
@@ -60,5 +64,5 @@ body {
 .topic{
     font-family: FreesiaUPC;
     font-weight: bolder;
-    font-size: 2vw;
+    font-size: 2.5vw;
 }

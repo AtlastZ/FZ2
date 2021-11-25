@@ -30,8 +30,7 @@
                 <div class="collapse navbar-collapse" id="navbarText">
                     <ul class="navbar-nav  d-flex justify-content-end " style="width:100%;">
                         <li class="nav-item align-self-center">
-                            <a class="nav-link active" href="ChooseFriend.php" style="vertical-align:middle;">Choose
-                                Friend</a>
+                            <a class="nav-link active" href="ChooseFriend.php" style="vertical-align:middle;">Friend Gallery</a>
                         </li>
                         <li class="nav-item align-self-center">
                             <a class="nav-link active" href="about.php" style="vertical-align:middle;">About Us</a>
@@ -55,7 +54,7 @@
             <div class="data">
                 <div class="about">
                     <p class=" ps-3 pt-5 head">We never dream about conveince. We created it.</p>
-                    <p class=" text-center head">Every customen is a gift-without them we would not grow..</p>
+                    <p class=" text-center head">Customers are gift-without them we wouldn't grow</p>
                     
                 </div>
                 <div class="midblock d-flex flex-row bd-highlight">
@@ -84,10 +83,12 @@
                 
                 <div class="contact">
                     <p class=" ps-3 pt-5 topic">CONTACT US</p>
+                    <p class="lh-base ps-3">Email : Analyzya@gmail.com <a href="mailto:analyzya@gmail.com">CLICK HERE</a></p> 
                     <p class="lh-base ps-3" id="pabout"> PHONE : +66(0)-9-0950-9463<br>ANALYZIA GROUP WEBSITE : <a
                             href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">CLICK HERE</a>
                         <br>เวลาเปิดทำการ : วันหยุดข้าราชการ
                     </p>
+                    
                 </div>
             </div>
             <div class="space2">
