@@ -14,17 +14,17 @@
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
     </script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="../css/queue.css">
 </head>
 
 <?php
  $id = $_GET['FRIENDS']; 
 ?>
 
-<body style="background: #ffe4e6">
+<body>
     <div class="container-fluid">
         <div class="position-absolute top-50 start-50 translate-middle">
-            <div class="border border-dark rounded p-5" style="background: #ffffff">
+            <div class="border border-dark rounded p-5 Ctable">
                 <form class="row g-3" method="post" action="insert.php">
                     <div class="col-12">
                         <div class="input-group input-group-lg">
@@ -95,7 +95,14 @@
         </div>
     </div>
     </div>
-    <div class="m-4 position-absolute bottom-0 start-0"><a class="btn btn-primary" href="#" role="button">Back</a></div>
+    <!-- <div class="m-4 position-absolute bottom-0 start-0"><a class="btn btn-primary" href="ChooseFriend.php" role="button"><img src="../assets/images/Back.png" alt="Back"></a></div>
+ -->
+    <!-- <div class="back" style="background: #000;">
+        <div id="bt" class="container btimg" style="display: block;">
+            <a href="ChooseFriend.php"><img class="imgbtn "
+                    src="../assets/images/Back.png" alt=""></a>
+        </div>
+    </div> -->
 </body>
 
 </html>

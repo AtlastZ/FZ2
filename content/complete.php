@@ -10,7 +10,7 @@
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
     </script>
     <link href="../css/complete.css" rel="stylesheet">
-    <link href="../css/nav.css" rel="stylesheet">
+    <link href="../css/navbar.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
@@ -33,8 +33,7 @@
                 <div class="collapse navbar-collapse" id="navbarText">
                     <ul class="navbar-nav  d-flex justify-content-end " style="width:100%;">
                         <li class="nav-item align-self-center">
-                            <a class="nav-link active" href="ChooseFriend.php" style="vertical-align:middle;">Choose
-                                Friend</a>
+                            <a class="nav-link active" href="ChooseFriend.php" style="vertical-align:middle;">Friend Gallery</a>
                         </li>
                         <li class="nav-item align-self-center">
                             <a class="nav-link active" href="about.php" style="vertical-align:middle;">About Us</a>
@@ -69,7 +68,7 @@
             </hr>
         </div>
         <div class="container steak d-flex justify-content-center">
-            <a href="a.html"><button type="button" class="btn btn-outline-primary"><span
+            <a href="ChooseFriend.php"><button type="button" class="btn btn-outline-primary"><span
                         style="font-size:1.5vw;">Booking
                         more!</span></button></a>
             <a href="Main.php"><button type="button" class="btn btn-outline-success"><span style="font-size:1.5vw;">Main

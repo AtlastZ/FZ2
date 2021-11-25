@@ -13,7 +13,7 @@
     </script>
     <script src="../js/choose.js"></script>
     <link href="../css/page2.css" rel="stylesheet">
-    <link href="../css/nav.css" rel="stylesheet">
+    <link href="../css/navbar.css" rel="stylesheet">
 
 </head>
 
@@ -32,8 +32,7 @@
                 <div class="collapse navbar-collapse" id="navbarText">
                     <ul class="navbar-nav  d-flex justify-content-end " style="width:100%;">
                         <li class="nav-item align-self-center">
-                            <a class="nav-link active" href="ChooseFriend.php" style="vertical-align:middle;">Choose
-                                Friend</a>
+                            <a class="nav-link active" href="ChooseFriend.php" style="vertical-align:middle;">Friend Gallery</a>
                         </li>
                         <li class="nav-item align-self-center">
                             <a class="nav-link active" href="about.php" style="vertical-align:middle;">About Us</a>

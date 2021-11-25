@@ -8,16 +8,15 @@
     <link rel="icon" href="../assets/images/Icon.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous">
-    </script>
-    <script src="../js/choose.js"></script>
     <link rel="stylesheet" href="../css/about.css">
-    <link rel="stylesheet" href="../css/nav.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous">
+        </script>
+        
 </head>
 
 <body>
-    <div class="content">
         <nav class="navbar navbar-expand-lg navbar-custom navbar-dark sticky-top"
             style="background-color: #73558b; width:100%;">
             <div class="container-fluid ">
@@ -38,53 +37,61 @@
                             <a class="nav-link active" href="about.php" style="vertical-align:middle;">About Us</a>
                         </li>
                         <li class="nav-item align-self-center">
-                            <a class="nav-link active" href="https://www.facebook.com/sathidaCerSerZer"><img
+                            <a class="nav-link active"
+                                href="https://www.facebook.com/sathidaCerSerZer" target="blank"><img
                                     src="https://cdn-icons-png.flaticon.com/512/1400/1400843.png" width="50px"
-                                    style="vertical-align:middle;"></a>
+                                    style="vertical-align:middle;" ></a>
                         </li>
                     </ul>
 
                 </div>
             </div>
         </nav>
+        
+        <div class="main d-flex flex-row bd-highlight">
+            <div class="space1">
 
-        <div class="main">
-            <div class="about">
-                <p class="h1 text-center pt-5">ABOUT US</p>
             </div>
-            <div class="bmain d-flex flex-wrap align-content-start">
-                <div class="space">
-
+            <div class="data">
+                <div class="about">
+                    <p class=" ps-3 pt-5 head">We never dream about conveince. We created it.</p>
+                    <p class=" text-center head">Every customen is a gift-without them we would not grow..</p>
+                    
                 </div>
-
-                <div class="lbmain pt-4" id="text">
-                    <p class="h2 ps-5 ">ANALYZIA GROUP</p>
-                    <p class="lh-base ps-5" id="pabout"> สมาร์ทตี้ หรือ นายบุรฉัตร
-                        มีความฝันในตอนเด็กว่าอยากจะเปิดบริษัทบริการที่สร้างความสะดวกสบายให้กับผู้คนทุกๆฐานะในทุกด้าน
-                        จึงจัดทำบริษัท
-                        ANALYZIA GROUP ขึ้นมาซึ่งมาจากคำว่า analyse(วิเคราะห์) กับ phobia(ความกลัว) และ GROUP
+                <div class="midblock d-flex flex-row bd-highlight">
+                    <div class="analyzia">
+                        <p class="pt-5 ps-3 topic">ANALYZIA GROUP</p>
+                        <p class="lh-base ps-3 pe-3" id="pabout"> 
+                        มาจากคำว่า Analyse (วิเคราะห์) กับ Phobia (ความกลัว) และ Group
                         รวมกันเป็นกลุ่มบุคคลที่ทำหน้าที่วิเคราะห์ความกลัวต่างๆและทำการต่อต้านสิ่งเหล่านั้นด้วยการบริการของบริษัทเราแก่ลูกค้าที่ต้องการความช่วยเหลือ
                         โดยบริษัทนี้จัดทำโดยแสวงหาความสะดวกสบายของมนุษย์และต้องการผลตอบแทนเพียงเล็กน้อย
                     </p>
-                    <p class="h2 ps-5 pt-2">FRIENDZONE เพื่อนกันแค่พันเดียว</p>
-                    <p class="lh-base ps-5" id="pabout">จากความสัมพันธ์ของคำว่า "เพื่อน"
+                    
+                    </div>
+                    <div class="friendzone">
+                        <p class="pt-5 ps-3 topic">FRIENDZONE เพื่อนกันแค่พันเดียว</p>
+                         <p class="lh-base ps-3 " id="pabout">จากความสัมพันธ์ของคำว่า "เพื่อน"
                         ทำให้เกิดปัญหาที่ส่งผลกระทบต่อวัยรุ่นในปัจจุบัน ไม่ว่าจะเป็นคิดกับเขาแค่เพื่อน เพื่อนไม่คบ
                         หรือเจอเพื่อนหวังประโยชน์ ทางบริษัทเราจึงคิดที่จะทำบริการ การเช่าเพื่อนที่มีสโลแกนประจำใจคือ
                         "Analyzia ไม่อยากได้เมียแต่อยากได้เพื่อน" เพื่อให้คุณลูกค้าได้รับประสบการณ์เพื่อนเช่า
                         ที่จะเข้ามาเปลี่ยนชีวิตของคุณให้ดีขึ้น ไม่ว่าจะกวนตีนคุณ หรือคอยช่วยเหลือคุณต่างๆ
                         ทางเรามีเพื่อนเช่ามากมายที่คุณลูกค้าสนใจให้เลือกอย่างทั่วถึง
-                    </p>
-                    <p class="h2 ps-5 pt-2">CONTACT US</p>
-                    <p class="lh-base ps-5" id="pabout"> PHONE : +66(0)-9-0950-9463<br>ANALYZIA GROUP WEBSITE : <a
+                        </p>
+        
+                    </div>
+                    <hr>
+                </div>
+                
+                <div class="contact">
+                    <p class=" ps-3 pt-5 topic">CONTACT US</p>
+                    <p class="lh-base ps-3" id="pabout"> PHONE : +66(0)-9-0950-9463<br>ANALYZIA GROUP WEBSITE : <a
                             href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">CLICK HERE</a>
                         <br>เวลาเปิดทำการ : วันหยุดข้าราชการ
                     </p>
                 </div>
+            </div>
+            <div class="space2">
 
-
-                <div class="space">
-
-                </div>
             </div>
         </div>
 

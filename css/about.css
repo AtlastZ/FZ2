@@ -1,50 +1,64 @@
 body {
-    background: #ffe4e6;
+    font-size: 1.7vw;
     font-family: MyFontMML;
-    font-size: 35px;
+    color: black
 }
 @font-face {
     font-family: MyFontMML;
-    src: url(../assets/font/FC\ Marshmallow\ Brush\ Regular.otf);
+    src: url(../assets/font/FC_Marshmallow_Brush_Regular.otf);
  }
 .main {
     width: 100%;
     height: auto;
-    /* background-color: brown;  */
+    
 }
 
 .about {
     width: 100%;
-    height: 7vw;
-    /* background-color: brown;  */
-}
-
-.bmain {
-    width: 100%;
-    height: 35vw;
-}
-
-.lbmain {
-    width: 80%;
-    height: 100%;
-    /* background-color: blue;  */
-}
-
-
-.h2 {
-    margin-right: 5vw;
-}
-.lh-base{
-    margin-top: 2vw;
+    height: 20vw;
+    /* background-color: blueviolet; */
+    
     
 }
-.space{
-    width: 10%;
-    height: 100%;
+.data{
+    width: 70%;
+    height: 65vw;
+    
 }
-.char{
-    font-size: 40px;
-    height: 40px;
-    animation: an 1s ease-out 1 both;
-    display: inline-block;
+
+.space1{
+    width: 25%;
+    height: 65vw;
+    /* background-color: aquamarine; */
+}
+.space2{
+    width: 5%;
+    height: 65vw;
+    /* background-color: aquamarine; */
+}
+.analyzia{
+    width: 100%;
+    height: 25vw;
+    /* background-color: brown; */
+
+}
+.friendzone{
+    width: 100%;
+    height: 25vw;
+    /* background-color: burlywood; */
+}
+.contact{
+    width: 100%;
+    height: 20vw;
+    /* background-color: cornflowerblue; */
+}
+.head{
+    font-size: 4vw;
+    font-family: MyFontMML;
+    font-family: FreesiaUPC;
+}
+.topic{
+    font-family: FreesiaUPC;
+    font-weight: bolder;
+    font-size: 2vw;
 }

@@ -1,9 +1,11 @@
-
 body{
-    /* background-image: url(x.svg);
-    background-size: cover; */
-    background: #ffe4e6;
+    background-image: url(../assets/images/bg2.jpg);
+    background-size: cover;
+    text-shadow: 0px 0px 8px #000000;
+    font-weight: bold;
+    color: azure;
 }
+
 .bg {
     height: auto;
     width: 100%;
@@ -104,6 +106,9 @@ body{
 
 .mgl {
     margin-left: 4vw;
+}
+.textShadow{
+    text-shadow:1px 1px rgb(255, 255, 255) ;
 }
 .view {
     width: 16vw;
