@@ -22,7 +22,7 @@
         <nav class="navbar navbar-expand-lg navbar-custom navbar-dark sticky-top"
             style="background-color: #73558b; width:100%;">
             <div class="container-fluid ">
-                <a class="navbar-brand" href="../index.php" style="width:15%" id="navIcon"><img
+                <a class="navbar-brand" href="../content/Main.php" style="width:15%" id="navIcon"><img
                         src="https://media.discordapp.net/attachments/608999097982255127/911546510418796564/LogoFZ4-edited.png?width=1440&height=410"
                         class="img-fluid" alt="img not found"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
