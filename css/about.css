@@ -42,13 +42,13 @@ body {
 }
 .analyzia{
     width: 100%;
-    height: 25vw;
+    height: auto;
     /* background-color: brown; */
 
 }
 .friendzone{
     width: 100%;
-    height: 25vw;
+    height: auto;
     /* background-color: burlywood; */
 }
 .contact{
